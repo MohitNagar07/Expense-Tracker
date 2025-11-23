@@ -45,3 +45,7 @@ matches the sum (e.g., 1350.0 ).
 3) Viewing Summary :
 <img width="269" height="160" alt="image" src="https://github.com/user-attachments/assets/721463ce-cd41-4d31-b44f-249cb4e7323e" />
 
+4) Exit :
+<img width="226" height="81" alt="image" src="https://github.com/user-attachments/assets/09bd87f8-9bd0-44c0-b560-7320994320c7" />
+
+
